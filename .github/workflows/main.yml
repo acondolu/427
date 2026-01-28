@@ -13,5 +13,5 @@ jobs:
         with:
           name: output.zip
           path: |
-            427.html
+            www
             427.conf
